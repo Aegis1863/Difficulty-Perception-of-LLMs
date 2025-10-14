@@ -1,4 +1,4 @@
-# Adaptive reasoning research
+# LLMs Intrinsic Difficulty Perception
 
 Code for paper `Probing Implicit Difficulty Perception in Large Language Models`.
 
