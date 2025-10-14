@@ -39,3 +39,18 @@ Refer to `attn_head_ablation.py`.
 ## Attention Head Perceptual Control
 
 Refer to `deepmath_weighted_llm_emb.py`.
+
+
+## Citation
+
+```
+@misc{lee2025probingdifficultyperceptionmechanism,
+      title={Probing the Difficulty Perception Mechanism of Large Language Models}, 
+      author={Sunbowen Lee and Qingyu Yin and Chak Tou Leong and Jialiang Zhang and Yicheng Gong and Shiwen Ni and Min Yang and Xiaoyu Shen},
+      year={2025},
+      eprint={2510.05969},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.05969}, 
+}
+```
