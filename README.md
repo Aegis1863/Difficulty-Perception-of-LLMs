@@ -2,6 +2,8 @@
 
 Code for paper `Probing Implicit Difficulty Perception in Large Language Models`.
 
+Arxiv: https://arxiv.org/abs/2510.05969
+
 ## Pipeline
 
 ![Pipeline](img/framework.jpg)
