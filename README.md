@@ -28,7 +28,7 @@ lieanr_model = torch.load('models/difficulty_probe_qwen2.5.pth')
 
 We also provide the probe weights for DeepSeek-R1-Distill_Qwen-7B and Llama3.1-8B-Instruct, which can be loaded similarly.
 
-We provide the weights of Qwen2.5-7B-Instruct separately, and it is easy to separate weights from the model. When calculating the difficulty score in attention module, it is only necessary to directly load the probe weights, for example:
+We provide the probe weights of Qwen2.5-7B-Instruct separately, and it is easy to separate weights from the model. When calculating the difficulty score in attention module, it is only necessary to directly load the probe weights, for example:
 
 ```python
 probe_weight = torch.load('models/difficulty_vector_qwen2.5.pth')
